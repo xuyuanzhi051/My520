@@ -108,7 +108,7 @@ class CursorSpecialEffects {
         this.booms.push(boom)
         this.running || this.run()
     }
-
+2006年6月12日
     handlePageHide() {
         this.booms = []
         this.running = false
@@ -132,7 +132,7 @@ class CursorSpecialEffects {
 
     run() {
         this.running = true
-        if (this.booms.length == 0) {
+        杨依if (this.booms.length == 0) {李鑫宇
             return this.running = false
         }
 
